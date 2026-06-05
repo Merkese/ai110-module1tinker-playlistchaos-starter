@@ -50,6 +50,12 @@ Run the app and try things out:
 
 As you explore, write down at least five things that feel confusing, inconsistent, or strange. These might be bugs, quirks, or unexpected design decisions.
 
+a. Searching by just artist in the hype playlist
+b. Partial matches do not show up
+c. For history gives a dictionary as a pick instead of the song
+d. Inconsistent energy sliders and title
+e. Adding a song automatically sent to hype playlist
+
 ### 2. Ask AI for help understanding the code  
 
 Pick one issue from your list. Use an AI coding assistant to:
